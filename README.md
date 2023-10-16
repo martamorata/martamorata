@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Springboot & React**
 
-- 📄 Know about my experiences [I have been working for 8 months at the Spanish company Guadaltel, S.A. I have devoted the majority of my professional time to working with Java, with a particular focus on Spring Boot for backend development and the JavaScript React framework for frontend development](I have been working for 8 months at the Spanish company Guadaltel, S.A. I have devoted the majority of my professional time to working with Java, with a particular focus on Spring Boot for backend development and the JavaScript React framework for frontend development)
+- 📄 Know about my experiences: I have been working for 8 months at the Spanish company Guadaltel, S.A. I have devoted the majority of my professional time to working with Java, with a particular focus on Spring Boot for backend development and the JavaScript React framework for frontend development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
